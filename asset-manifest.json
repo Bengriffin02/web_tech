@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/web_tech/static/css/main.50a0b741.css",
+    "main.js": "/web_tech/static/js/main.184062bd.js",
+    "static/media/f1bodyimage.png": "/web_tech/static/media/f1bodyimage.a1ece5de4bf1842bf9b5.png",
+    "index.html": "/web_tech/index.html",
+    "main.50a0b741.css.map": "/web_tech/static/css/main.50a0b741.css.map",
+    "main.184062bd.js.map": "/web_tech/static/js/main.184062bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50a0b741.css",
+    "static/js/main.184062bd.js"
+  ]
+}
